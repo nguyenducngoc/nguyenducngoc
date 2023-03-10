@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/master/screen.gif" alt="Raghav Khullar Typer" />
+<img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="Raghav Khullar Typer" />
 </div>
 <br/>
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -54,7 +54,7 @@
     * [**Visit my Website**](https://nguyenducngoc.github.io/)
     
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/connected.gif" alt="hi" width="350" height="200" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/main/connected.gif" alt="hi" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
