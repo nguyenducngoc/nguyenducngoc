@@ -43,26 +43,3 @@
 
 - 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
 
-- 🤓 Active User at: **GitHub | LinkedIn | Hackerrank**
-
-- 📫 How to reach me:
-
-    * [**Drop a Mail**](mailto:nguyenducngoc16@gmail.com)
-
-    * [**Connect via LinkedIn**](https://shuyi.online)
-
-    * [**Visit my Website**](https://nguyenducngoc.github.io/)
-    
-<div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/main/connected.gif" alt="hi" width="350" height="200" />
-</div>
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun Facts: 
-
-    * *Besides programming, I'm a [**Technical Content Writer**](https://shuyi.online/), a **Melophile** and love to cook.*
-
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-    
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
