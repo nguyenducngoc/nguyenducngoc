@@ -26,7 +26,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -47,21 +47,21 @@
 
 - 📫 How to reach me:
 
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
+    * [**Drop a Mail**](mailto:nguyenducngoc16@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
+    * [**Connect via LinkedIn**](https://shuyi.online)
 
     * [**Visit my Website**](https://nguyenducngoc.github.io/)
     
 <div align="center">
-<img src="https://github.com/nguyenducngoc/nguyenducngoc/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/nguyenducngoc/nguyenducngoc/connected.gif" alt="hi" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
 
 - ⚡ Fun Facts: 
 
-    * *Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook.*
+    * *Besides programming, I'm a [**Technical Content Writer**](https://shuyi.online/), a **Melophile** and love to cook.*
 
     * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
     
